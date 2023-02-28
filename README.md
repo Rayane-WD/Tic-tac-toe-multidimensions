@@ -9,7 +9,7 @@ In this version of Tic Taac Toe you can :
 
 ## How to play
 The game start asking you to set the parameters.
-[img1]
+![img1_start](/img/img1_start)
 
 Then start.
 Depending on the dimension chosen a letter/number will be attached to a grid or set of grids.
