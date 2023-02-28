@@ -8,21 +8,24 @@ In this version of Tic Taac Toe you can :
 - play with up to 4 additional players.
 
 ## How to play
-The game start asking you to set the parameters.
+1. The game start asking you to set the parameters.
 
 ![img1_start](/img/img1_start.jpg)
 
 Then start.
-Depending on the dimension chosen a letter/number will be attached to a grid or set of grids.
-[img2]-[img2']
 
-The number of turn passed is displayed. First player (J1) has the token 'X'.
-[img3]
+2. Depending on the dimension chosen a letter/number will be attached to a grid or set of grids.
 
-To place a token, you must first need choose the grid in which you wish to play. Enter the symbol attached to a grid/set and dive deeper in dimensions until you reach a 2D version of a grid.
+![img2_grids_sets.jpg](/img/img2_grids_sets.jpg)  ![img2_grids_sets_bis.jpg](/img/img2_grids_sets_bis.jpg)
+
+3. The number of turn passed is displayed. First player (J1) has the token 'X'.
+
+![img3_j1.jpg](/img/img3_j1.jpg)
+
+4. To place a token, you must first need choose the grid in which you wish to play. Enter the symbol attached to a grid/set and dive deeper in dimensions until you reach a 2D version of a grid.
 Each dots '.' represents an empty square, a reference grid is displayed helping you to easily choose a correct position.
 Enter a position to place you token.
-[img4]
+![img4_2dgrid.jpg](/img/img4_2dgrid.jpg)
 
 You can see your tokens in the next player turn.
 
