@@ -13,20 +13,15 @@ The game start asking you to set the parameters.
 
 Then start.
 Depending on the dimension chosen a letter/number will be attached to a grid or set of grids.
-[img2]
+[img2]-[img2']
 
-First player (J1) has the token 'X'. 
+The number of turn passed is displayed. First player (J1) has the token 'X'.
 [img3]
 
-To place a token, you must first need choose the grid in which you wish to play. Enter the symbol attached to a grid/set and dive deeper in dimensions...
-[img4]
-
-..until you reach a 2D version of a grid.
-[img5]
-
+To place a token, you must first need choose the grid in which you wish to play. Enter the symbol attached to a grid/set and dive deeper in dimensions until you reach a 2D version of a grid.
 Each dots '.' represents an empty square, a reference grid is displayed helping you to easily choose a correct position.
 Enter a position to place you token.
-[img6]
+[img4]
 
 You can see your tokens in the next player turn.
 
