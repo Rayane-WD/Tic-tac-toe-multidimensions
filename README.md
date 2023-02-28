@@ -38,5 +38,6 @@ Run the main.c file along with all other files in the same folder
 
 ## Context
 This project was created as part of my studies in the 3rd year of my school ESME Sudria in the major "Innovation".
+
 This project was created in collaboration with :
 ***Mateo THEVENEY*** - [His Linkdin](https://www.linkedin.com/in/mateo-theveney/).
