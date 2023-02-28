@@ -25,6 +25,7 @@ Then start.
 4. To place a token, you must first need choose the grid in which you wish to play. Enter the symbol attached to a grid/set and dive deeper in dimensions until you reach a 2D version of a grid.
 Each dots '.' represents an empty square, a reference grid is displayed helping you to easily choose a correct position.
 Enter a position to place you token.
+
 ![img4_2dgrid.jpg](/img/img4_2dgrid.jpg)
 
 You can see your tokens in the next player turn.
