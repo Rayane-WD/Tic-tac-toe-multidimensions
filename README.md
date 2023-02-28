@@ -1,13 +1,13 @@
 ### Tic Tac Toe multidimensions
 Configurable Tic-Tac-Toe game in a console.
 
-##Description
+## Description
 In this version of Tic Taac Toe you can :
 - set the number of dimensions to 2, 3 or 4.
 - set the size of the playable grid.
 - play with up to 4 additional players.
 
-##How to play
+## How to play
 The game start asking you to set the parameters.
 [img1]
 
@@ -30,13 +30,13 @@ Enter a position to place you token.
 
 You can see your tokens in the next player turn.
 
-##How to win
+## How to win
 First player who manages align **vertically, horizontally or diagonally his tokens between several dimensions or not**, wins the game. 
 
-##How to run
+## How to run
 Run the main.c file along with all other files in the same folder
 
-##Context
+## Context
 This project was created as part of my studies in the 3rd year of my school ESME Sudria in the major "Innovation".
 This project was created in collaboration with :
-Mateo THEVENEY - [His Linkdin](https://www.linkedin.com/in/mateo-theveney/).
+***Mateo THEVENEY*** - [His Linkdin](https://www.linkedin.com/in/mateo-theveney/).
