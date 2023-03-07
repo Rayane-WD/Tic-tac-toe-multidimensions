@@ -26,7 +26,7 @@ Then start.
 Each dots '.' represents an empty square, a reference grid is displayed helping you to easily choose a correct position.
 Enter a position to place you token.
 
-<img src="img/img4_2dgrid.jpg" alt="img4_2dgrid.jpg" width="300" height="210">
+<img src="img/img4_2dgrid.jpg" alt="img4_2dgrid.jpg" width="300" height="230">
 
 You can see your tokens placed in the next player turn.
 
