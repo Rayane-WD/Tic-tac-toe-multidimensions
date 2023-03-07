@@ -10,7 +10,7 @@ In this version of Tic Taac Toe you can :
 ## How to play
 1. The game start asking you to set the parameters.
 
- <img src="img/img1_start.jpg" alt="img1_start.jpg" width="425" height="250">
+ <img src="img/img1_start.jpg" alt="img1_start.jpg" width="300" height="180">
 
 Then start.
 
