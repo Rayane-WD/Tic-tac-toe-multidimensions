@@ -10,7 +10,7 @@ In this version of Tic Taac Toe you can :
 ## How to play
 1. The game start asking you to set the parameters.
 
-![img1_start](/img/img1_start.jpg)
+ <img src="img/img1_start.jpg" alt="img1_start.jpg" width="425" height="250">
 
 Then start.
 
@@ -39,5 +39,6 @@ Run the main.c file along with all other files in the same folder
 ## Context
 This project was created as part of my studies in the 3rd year of my engineer school ESME Sudria.
 
-This project was created in collaboration with :
+This project was created in collaboration with :<br/>
+***Rayane WAIDI*** - [His Linkdin](https://www.linkedin.com/in/rayane-waidi/).<br/>
 ***Mateo THEVENEY*** - [His Linkdin](https://www.linkedin.com/in/mateo-theveney/).
