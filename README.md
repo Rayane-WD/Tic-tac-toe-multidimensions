@@ -14,21 +14,18 @@ In this version of Tic Taac Toe you can :
 
 Then start.
 
-2. Depending on the dimension chosen a letter/number will be attached to a grid or set of grids.
+2. Depending on the dimension chosen a letter/number will be attached to a grid or set of grids.<br/>
+<img src="img/img2_grids_sets.jpg" alt="img2_grids_sets.jpg" width="220" height="240">   <img src="img/img2_grids_sets_bis.jpg" alt="img2_grids_sets_bis.jpg" width="220" height="240">
 
-<img src="img/img2_grids_sets.jpg" alt="img2_grids_sets.jpg" width="260" height="280">   <img src="img/img2_grids_sets_bis.jpg" alt="img2_grids_sets_bis.jpg" width="260" height="280">
-
-3. The number of turn passed is displayed. First player (J1) has the token 'X'.
-
+3. The number of turn passed is displayed. First player (J1) has the token 'X'.<br/>
 ![img3_j1.jpg](/img/img3_j1.jpg)
 
 4. To place a token, you must first need choose the grid in which you wish to play. Enter the symbol attached to a grid/set and dive deeper in dimensions until you reach a 2D version of a grid.
 Each dots '.' represents an empty square, a reference grid is displayed helping you to easily choose a correct position.
-Enter a position to place you token.
+Enter a position to place you token.<br/>
+<img src="img/img4_2dgrid.jpg" alt="img4_2dgrid.jpg" width="300" height="180">
 
-![img4_2dgrid.jpg](/img/img4_2dgrid.jpg)
-
-You can see your tokens in the next player turn.
+You can see your tokens placed in the next player turn.
 
 ## How to win
 First player who manages align **vertically, horizontally or diagonally his tokens between several dimensions or not**, wins the game. 
