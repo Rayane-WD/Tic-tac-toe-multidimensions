@@ -16,7 +16,7 @@ Then start.
 
 2. Depending on the dimension chosen a letter/number will be attached to a grid or set of grids.
 
-<img src="img/img2_grids_sets.jpg" alt="img2_grids_sets.jpg" width="300" height="180">   <img src="img/img2_grids_sets_bis.jpg" alt="img2_grids_sets_bis.jpg" width="300" height="180">
+<img src="img/img2_grids_sets.jpg" alt="img2_grids_sets.jpg" width="260" height="280">   <img src="img/img2_grids_sets_bis.jpg" alt="img2_grids_sets_bis.jpg" width="260" height="280">
 
 3. The number of turn passed is displayed. First player (J1) has the token 'X'.
 
