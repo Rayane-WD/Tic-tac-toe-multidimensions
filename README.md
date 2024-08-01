@@ -7,8 +7,8 @@ In this version of Tic Taac Toe you can :
 - Set the size of the playable grid.
 - Play with up to 4 additional players.
 
-## How to run
-Run the main.c file along with all other files in the same folder
+<!---## How to run
+Compile then run main.c file along with all other files in the same folder -->
 
 ## How to play
 1. The game start asking you to set the parameters.
